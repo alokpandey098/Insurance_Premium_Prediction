@@ -26,7 +26,7 @@ from Insurance.components.model_pusher import ModelPusher
 
 if __name__=="__main__":
      try:
-          #start_training_pipeline()
+          #start_training_pipeline() 
           #test_logger_and_expection()
        # get_collection_as_dataframe(database_name ="INSURANCE", collection_name = 'INSURANCE_PROJECT')
        training_pipeline_config = config_entity.TrainingPipelineConfig()

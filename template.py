@@ -16,7 +16,7 @@ logging.info(f"Creating project by name: {project_name}")
 
 list_of_files = [
     ".github/workflows/.gitkeep",
-    ".github/workflows/main.yaml",
+    ".github/workflows/main.yaml", 
    # f"src/{project_name}/__init__.py",
     f"{project_name}/__init__.py",
     f"{project_name}/components/__init__.py",
