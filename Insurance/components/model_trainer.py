@@ -8,7 +8,6 @@ from sklearn.linear_model import LinearRegression
 from Insurance import utils
 from sklearn.metrics import r2_score
 
-
 class ModelTrainer:
 
 
