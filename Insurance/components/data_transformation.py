@@ -13,7 +13,7 @@ from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import RobustScaler
 from Insurance.config import TARGET_COLUMN
 
-# Missing values imputation
+# Missing values imputation 
 # Outliers Handling
 # Imbalanced data handling
 # Convert Categorical data into numerical data
