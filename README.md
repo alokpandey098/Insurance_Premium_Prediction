@@ -21,11 +21,11 @@ Elastic Beanstalk:
 
 [High Level Design]()
 
-[Low Level Design]()
+[Low Level Design](https://github.com/alokpandey098/Insurance_Premium_Prediction/blob/main/Documentation/Low%20Level%20Document.pdf)
 
-[Project Architecture]()
+[Project Architecture](https://github.com/alokpandey098/Insurance_Premium_Prediction/blob/main/Documentation/Project%20Architecture.pdf)
 
-[Project Wireframe:]()
+[Project Wireframe:](https://github.com/alokpandey098/Insurance_Premium_Prediction/blob/main/Documentation/Project%20Wireframe.pdf)
 
 [Detailed Project Report]()
 
