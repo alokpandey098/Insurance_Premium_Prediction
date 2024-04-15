@@ -10,7 +10,6 @@ from Insurance.components.model_trainer import ModelTrainer
 from Insurance.components.model_evaluation import ModelEvaluation
 from Insurance.components.model_pusher import ModelPusher
 
-
 def start_training_pipeline():
     try:
         training_pipeline_config = config_entity.TrainingPipelineConfig()
