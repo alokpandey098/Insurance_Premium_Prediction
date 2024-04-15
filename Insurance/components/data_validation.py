@@ -10,8 +10,6 @@ import numpy as np
 from Insurance.config import TARGET_COLUMN
 
 
-
-
 class DataValidation:
 
 
