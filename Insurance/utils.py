@@ -1,7 +1,6 @@
 import pandas as pd
 from Insurance.logger import logging
 from Insurance.exception import InsuranceException
-from Insurance.config import mongo_client
 import os,sys
 import yaml
 import numpy as np
