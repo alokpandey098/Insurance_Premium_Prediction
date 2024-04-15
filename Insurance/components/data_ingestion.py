@@ -1,4 +1,3 @@
-
 from Insurance import utils
 from Insurance.entity import config_entity
 from Insurance.entity import artifact_entity
