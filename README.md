@@ -10,10 +10,9 @@ The insurance.csv dataset contains 1338 observations (rows) and 7 features (colu
 
 ### Please check the link below:
 Streamlit Deployment - *[Current Live Link]*: 
-<b>[Streamlit-app*](https://insurancepremiumprediction.streamlit.app/)</b>
+<b>[Streamlit-app*](https://insurancepremiumprediction-2gdje8hzyaeepigzb5rgq4.streamlit.app/)</b>
 <br><br>
-EC2 instance with ECR using github Actions:
-[*Deployment Link Live-Ec2*](http://13.233.230.193:8080/)
+
 <br>
 Elastic Beanstalk:
 [*Deployment Link Live-Beanstalk*](http://insurance-env-1.eba-ztjhym2p.ap-south-1.elasticbeanstalk.com/)
