@@ -9,7 +9,6 @@ import sys
 from datetime import datetime
 PREDICTION_DIR = "prediction"
 
-
 def start_batch_prediction(input_file_path):
     try:
         os.makedirs(PREDICTION_DIR, exist_ok=True)
