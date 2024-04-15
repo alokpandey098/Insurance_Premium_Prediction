@@ -2,7 +2,6 @@ import os
 
 import sys
 
-
 class InsuranceException(Exception):
     
 
