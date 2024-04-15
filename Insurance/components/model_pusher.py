@@ -6,6 +6,7 @@ from Insurance.utils import load_object,save_object
 from Insurance.logger import logging
 from Insurance.entity.artifact_entity import DataTransformationArtifact,ModelTrainerArtifact,ModelPusherArtifact
 
+
 class ModelPusher:
 
     def __init__(self,model_pusher_config:ModelPusherConfig,
