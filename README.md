@@ -87,14 +87,14 @@ Elastic Beanstalk:
 ![AWS-EC2](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## Contact
-[![Narendran Mudadi|LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][reach_linkedin]
-[![Narendran Mudadi|G-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][reach_gmail]
+[![Alok Kumar|LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][reach_linkedin]
+[![Alok Kumar|G-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][reach_gmail]
 
 <p align="right">(<a href="#top">back to top</a>)</p> 
 
 
 <!-- Reach Contact -->
-[reach_linkedin]: https://www.linkedin.com/in/narendran-mudadi/
-[reach_gmail]: mailto:narendas10@gmail.com?subject=Github
+[reach_linkedin]: www.linkedin.com/in/alok-kumar087
+[reach_gmail]: mailto:kalok0575@gmail.com?subject=Github
 
 
