@@ -67,12 +67,9 @@ Elastic Beanstalk:
 
 <p align="right">(<a href="#top">back to top</a>)</p> 
 
-#### Home Screen:
-![Screenshot_home](https://github.com/NarenBot/Insurance_Premium_Prediction/assets/58779483/83c3b374-07dc-4c51-a913-d711b6746517)
-
 #### Prediction Screen:
 
-![Screenshot_predict](https://github.com/NarenBot/Insurance_Premium_Prediction/assets/58779483/0c6566d7-a69f-438f-a484-4d8905bb5804)
+![Screenshot_predict](https://github.com/alokpandey098/Insurance_Premium_Prediction/blob/main/Img/Screenshot%202024-04-15%20205952.png)
 
 ### **Technologies used**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
