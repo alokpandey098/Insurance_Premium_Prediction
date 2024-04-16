@@ -19,7 +19,7 @@ Elastic Beanstalk:
 
 ### Documentation:
 
-[High Level Design]()
+[High Level Design](https://github.com/alokpandey098/Insurance_Premium_Prediction/blob/main/Documentation/High%20Level%20Document.pdf)
 
 [Low Level Design](https://github.com/alokpandey098/Insurance_Premium_Prediction/blob/main/Documentation/Low%20Level%20Document.pdf)
 
@@ -27,7 +27,7 @@ Elastic Beanstalk:
 
 [Project Wireframe:](https://github.com/alokpandey098/Insurance_Premium_Prediction/blob/main/Documentation/Project%20Wireframe.pdf)
 
-[Detailed Project Report]()
+[Detailed Project Report](https://github.com/alokpandey098/Insurance_Premium_Prediction/blob/main/Documentation/Detailed%20Project%20Report.pdf)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p> 
