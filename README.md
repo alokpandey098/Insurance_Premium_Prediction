@@ -95,7 +95,7 @@ Elastic Beanstalk:
 
 
 <!-- Reach Contact -->
-[reach_linkedin]: https://www.linkedin.com/in/alok-kumar087
+[reach_linkedin]: https://www.linkedin.com/in/alok-kumar087/
 [reach_gmail]: mailto:kalok0575@gmail.com?subject=Github
 
 
