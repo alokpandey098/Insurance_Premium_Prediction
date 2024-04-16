@@ -67,6 +67,7 @@ Elastic Beanstalk:
 
 <p align="right">(<a href="#top">back to top</a>)</p> 
 
+
 #### Prediction Screen:
 
 ![Screenshot_predict](https://github.com/alokpandey098/Insurance_Premium_Prediction/blob/main/Img/Screenshot%202024-04-15%20205952.png)
@@ -94,7 +95,7 @@ Elastic Beanstalk:
 
 
 <!-- Reach Contact -->
-[reach_linkedin]: www.linkedin.com/in/alok-kumar087
+[reach_linkedin]: https://www.linkedin.com/in/alok-kumar087
 [reach_gmail]: mailto:kalok0575@gmail.com?subject=Github
 
 
