@@ -34,6 +34,8 @@ Elastic Beanstalk:
 
 ### Steps Taken:
 * Installed Python, VS Code and Git.
+* Create env python=3.9
+* Run Requirement file
 * Created an account on Atlas MongoDB.
 * Download the source dataset from [Kaggle Repository](https://www.kaggle.com/datasets/noordeen/insurance-premium-prediction).
 * For Regression Problem algorithm decided to predict the feature `expenses`.
